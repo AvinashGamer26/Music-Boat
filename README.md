@@ -3,11 +3,6 @@
 # MUSIC-BOAT
 > A Advanced Discord Music Bot Made With Lavalink And  Have Many Premium Features with filters and more willl be add soon 
 
-## About Music-boat 🚧
-
-- A open source Discord bot recoded in JavaScript with [Discord.js](https://discord.js.org/#/) & [Lava link](https://www.npmjs.com/package/lavalink) by Me.
-- It Is Easy To Host In Vistual Studio Code And Replit  
-- It Was A templete of a [Tomato6966](https://github.com/tomato6966) But Change the Database and More
 
 # Bot Details 🌙
 - Bot Stats
@@ -25,6 +20,12 @@
 
 
  <a href="https://discord.gg/r5y7s8sJss"><img src="http://invidget.switchblade.xyz/r5y7s8sJss"/></a>
+
+## About Music-boat 🚧
+
+- A open source Discord bot recoded in JavaScript with [Discord.js](https://discord.js.org/#/) & [Lava link](https://www.npmjs.com/package/lavalink) by Me.
+- It Is Easy To Host In Vistual Studio Code And Replit  
+- It Was A templete of a [Tomato6966](https://github.com/tomato6966) But Change the Database and More
 
 
 # Bot Setup ⚒
