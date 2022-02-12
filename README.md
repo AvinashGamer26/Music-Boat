@@ -4,8 +4,8 @@
 > A Advanced Discord Music Bot Made With Lavalink And  Have Many Premium Features with filters and more willl be add soon 
 
 
-# Bot Details 🌙
-- Bot Stats
+
+## Bot Stats
 
 
 <a href="https://top.gg/bot/807855659173150781">
@@ -14,8 +14,9 @@
   <img src="https://top.gg/api/widget/owner/807855659173150781.svg?noavatar=true">
 </a>
 
-- Support Server
+## Support Server
 
+- For More Commands Join Support Server
 
  <a href="https://discord.gg/r5y7s8sJss"><img src="http://invidget.switchblade.xyz/r5y7s8sJss"/></a>
 
