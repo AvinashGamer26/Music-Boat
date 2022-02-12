@@ -9,8 +9,6 @@
 
 
 <a href="https://top.gg/bot/807855659173150781">
-  <img src="https://top.gg/api/widget/servers/807855659173150781.svg?noavatar=true">
-</a>  <a href="https://top.gg/bot/807855659173150781">
   <img src="https://top.gg/api/widget/upvotes/807855659173150781.svg?noavatar=true">
 </a>  <a href="https://top.gg/bot/807855659173150781">
   <img src="https://top.gg/api/widget/owner/807855659173150781.svg?noavatar=true">
