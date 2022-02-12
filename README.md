@@ -9,6 +9,24 @@
 - It Is Easy To Host In Vistual Studio Code And Replit  
 - It Was A templete of a [Tomato6966](https://github.com/tomato6966) But Change the Database and More
 
+# Bot Details 🌙
+- Bot Stats
+
+
+<a href="https://top.gg/bot/807855659173150781">
+  <img src="https://top.gg/api/widget/servers/807855659173150781.svg?noavatar=true">
+</a>  <a href="https://top.gg/bot/807855659173150781">
+  <img src="https://top.gg/api/widget/upvotes/807855659173150781.svg?noavatar=true">
+</a>  <a href="https://top.gg/bot/807855659173150781">
+  <img src="https://top.gg/api/widget/owner/807855659173150781.svg?noavatar=true">
+</a>
+
+- Support Server
+
+
+ <a href="https://discord.gg/r5y7s8sJss"><img src="http://invidget.switchblade.xyz/r5y7s8sJss"/></a>
+
+
 # Bot Setup ⚒
 
 - Clone the Repo by typing git clone `https://github.com/Just-Msv/Music-Boat` or Download the .rar file
