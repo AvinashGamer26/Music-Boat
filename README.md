@@ -26,7 +26,10 @@
 - It Is Easy To Host In Vistual Studio Code And Replit  
 - It Was A templete of a [Tomato6966](https://github.com/tomato6966) But Change the Database and More
 
+## For Website 🌐
 
+- [Click Here](https://github.com/Music-Boat/Music-Boat-Website) To View the Code Of the Website
+- To Visit Official Music Boat Website [Click Here](https://www.music-boat.cf)
 # Bot Setup ⚒
 
 - Clone the Repo by typing git clone `https://github.com/Just-Msv/Music-Boat` or Download the .rar file
